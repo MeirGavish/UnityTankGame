@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  - Enemies
+  - EnemySpawnBottom
+  - EnemySpawnLeft
+  - EnemySpawnRight
+  - EnemySpawnTop
+  - Boundary
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2596617357
+    locked: 0
+  - name: Vehicles
+    uniqueID: 3349787897
+    locked: 0
+  - name: Top
+    uniqueID: 864597005
+    locked: 0
+  - name: MuzzleFlash
+    uniqueID: 582876331
+    locked: 0
+  - name: UI
+    uniqueID: 1728569793
+    locked: 0
